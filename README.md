@@ -37,7 +37,7 @@ chmod +x FimpleLauncher
 
 ---
 
-Английская версия / English
+## English
 
 Fimple Launcher — a simple and convenient launcher for Minecraft on Linux.
 Currently, the Linux version is in beta, so it may be less stable than the Windows version.
