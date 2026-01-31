@@ -82,6 +82,8 @@ chmod +x FimpleLauncher
 
 Скриншоты / Screenshots
 
+![Image Alt](https://github.com/Forki303/Fimple-Launcher/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-01-17%20120106.png?raw=true)
+![Image Alt](https://github.com/Forki303/Fimple-Launcher/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-01-19%20193531.png?raw=true)
 
 
 
