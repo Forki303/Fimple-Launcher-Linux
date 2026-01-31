@@ -15,7 +15,7 @@ Fimple Launcher — простой и удобный лаунчер для Minec
 
 1. Скачайте архив .tar.gz с лаунчером.  
 2. Распакуйте архив:  
-   `bash
+   
    tar -xzvf FimpleLauncherLinux.tar.gz(version)
 
 3. Перейдите в папку лаунчера:
